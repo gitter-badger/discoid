@@ -1,5 +1,7 @@
 # discoid
 
+[![Join the chat at https://gitter.im/miniArray/discoid](https://badges.gitter.im/miniArray/discoid.svg)](https://gitter.im/miniArray/discoid?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Travis](https://img.shields.io/travis/miniArray/discoid.svg)](https://travis-ci.org/miniArray/discoid)
 [![Codecov](https://img.shields.io/codecov/c/github/miniArray/discoid.svg)](https://codecov.io/github/miniArray/discoid)
 [![npm](https://img.shields.io/npm/v/discoid.svg)](https://www.npmjs.com/package/discoid)
